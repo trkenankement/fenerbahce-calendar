@@ -1,0 +1,1556 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fenerbahce-calendar//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Fenerbahçe Tüm Maçlar
+X-WR-CALNAME:Fenerbahçe Tüm Maçlar
+X-WR-CALDESC:Fenerbahçe erkek futbol ve basketbol takımlarının maçlar
+ ı
+X-WR-TIMEZONE:Europe/Istanbul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:bd25431bfcd43dc3dd132ede@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Górnik Zabrze
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260721T180000Z
+DTEND:20260721T201500Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · 2. Ön Eleme Turu\nSonuç: 
+ 1-0\nKaynak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:94baf1a6a6a31cc8bb5bc761@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Górnik Zabrze - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260729T180000Z
+DTEND:20260729T201500Z
+STATUS:CONFIRMED
+LOCATION:Arena Zabrze\, Zabrze
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · 2. Ön Eleme Turu\nSonuç: 
+ 1-1\nKaynak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:2a05c9e598a3bd644077f323@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Sturm Graz
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260805T180000Z
+DTEND:20260805T201500Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · 3. Ön Eleme Turu\nSonuç: 
+ 2-0\nKaynak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:44d4687af4b559d44c04da89@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Sturm Graz - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260811T183000Z
+DTEND:20260811T204500Z
+STATUS:CONFIRMED
+LOCATION:Stadium Graz Liebenau\, Graz
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · 3. Ön Eleme Turu\nSonuç: 
+ 0-1\nKaynak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:f55741f185722d50673a9aea@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Gençlerbirliği - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20260815T183000Z
+DTEND:20260815T204500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 1. Hafta\nSonuç: 2-1\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317788
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c0435d3dcce4faae54dba9@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Lyon
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260818T190000Z
+DTEND:20260818T211500Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Play-Off\nSonuç: 1-1\nKayn
+ ak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:78de827c16e4325600c5d430@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Tümosan Konyaspor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20260822T183000Z
+DTEND:20260822T204500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 2. Hafta\nSonuç: 4-2\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317799
+END:VEVENT
+BEGIN:VEVENT
+UID:7bfa26e8a291ae66784f5b20@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Lyon - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260826T190000Z
+DTEND:20260826T211500Z
+STATUS:CONFIRMED
+LOCATION:OL Stadium\, Décines
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Play-Off\nSonuç: 1-2\nKayn
+ ak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:b9354a2f5430dde955a35698@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Samsunspor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20260830T183000Z
+DTEND:20260830T204500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 3. Hafta\nSonuç: 0-2\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317810
+END:VEVENT
+BEGIN:VEVENT
+UID:343d4056343a9bd499d64b83@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Beşiktaş
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20260905T170000Z
+DTEND:20260905T191500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 4. Hafta\nSonuç: 1-2\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317817
+END:VEVENT
+BEGIN:VEVENT
+UID:9e40f86dab650d2673d3f953@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Roma
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260910T164500Z
+DTEND:20260910T190000Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 1. Hafta\nSon
+ uç: 1-1\nKaynak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:294f709afc25affd5408bce8@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Gaziantep Futbol Kulübü - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20260914T170000Z
+DTEND:20260914T191500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 5. Hafta\nSonuç: 0-0\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317820
+END:VEVENT
+BEGIN:VEVENT
+UID:792a3d7df2e30480b11f2d25@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Eyüpspor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20260920T140000Z
+DTEND:20260920T161500Z
+STATUS:CONFIRMED
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 6. Hafta\nKaynak: TFF (Türkiy
+ e Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId
+ =317835
+END:VEVENT
+BEGIN:VEVENT
+UID:f6a26a50b94283d72909e54f@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Beşiktaş
+CATEGORIES:Fenerbahçe,Basketbol,Cumhurbaşkanlığı Kupası
+DTSTART:20260922T170000Z
+DTEND:20260922T190000Z
+STATUS:CONFIRMED
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Cumhurbaşkanlığı Kupası\nKaynak: TBF (Türkiy
+ e Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:971fd1a2aa8f3e4431308f36@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Virtus Bologna
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20260925T174500Z
+DTEND:20260925T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 1. Hafta\nKaynak: EuroLeague Basketb
+ all
+END:VEVENT
+BEGIN:VEVENT
+UID:e609779c63206c572e1f6c2d@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Bahçeşehir Koleji - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART:20260927T150000Z
+DTEND:20260927T170000Z
+STATUS:CONFIRMED
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 1. Hafta
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:ff86bf34dfaacbd75ca1207c@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Bayern Munich
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20260929T174500Z
+DTEND:20260929T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 2. Hafta\nKaynak: EuroLeague Basketb
+ all
+END:VEVENT
+BEGIN:VEVENT
+UID:8254d31ab6ec84fb318b1072@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Dubai
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261002T174500Z
+DTEND:20261002T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 3. Hafta\nKaynak: EuroLeague Basketb
+ all
+END:VEVENT
+BEGIN:VEVENT
+UID:ef19a20cc170e6d07c7ac532@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Biotekno Körfez Basket
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART:20261004T123000Z
+DTEND:20261004T143000Z
+STATUS:CONFIRMED
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 2. Hafta
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:4c976ad0f6a35e3e0b324212@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Panathinaikos - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261008T181500Z
+DTEND:20261008T201500Z
+STATUS:CONFIRMED
+LOCATION:Telekom Center Athens
+DESCRIPTION:Basketbol · EuroLeague · 4. Hafta\nKaynak: EuroLeague Basketb
+ all
+END:VEVENT
+BEGIN:VEVENT
+UID:bafdcdf09900888abf57381e@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Çaykur Rizespor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261010T160000Z
+DTEND:20261010T181500Z
+STATUS:CONFIRMED
+LOCATION:Çaykur Didi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 7. Hafta\nKaynak: TFF (Türkiy
+ e Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId
+ =317841
+END:VEVENT
+BEGIN:VEVENT
+UID:2832e712a2ae1a7f611abadf@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Çayırova Belediyesi - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART:20261010T173000Z
+DTEND:20261010T193000Z
+STATUS:CONFIRMED
+LOCATION:Çayırova Belediyesi Spor Kompleksi\, Kocaeli
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 3. Hafta
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:81b03049d97adfff26a3eb6e@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Zalgiris
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261013T174500Z
+DTEND:20261013T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 5. Hafta\nKaynak: EuroLeague Basketb
+ all
+END:VEVENT
+BEGIN:VEVENT
+UID:53fc04789d16e987da078d7f@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Aston Villa - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261014T190000Z
+DTEND:20261014T211500Z
+STATUS:CONFIRMED
+LOCATION:Villa Park\, Birmingham
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 2. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:c9ad64a7fc274ec4162ee58c@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Partizan
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261015T174500Z
+DTEND:20261015T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 6. Hafta\nKaynak: EuroLeague Basketb
+ all
+END:VEVENT
+BEGIN:VEVENT
+UID:e51c7e73b32d5e24fb592dec@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Corendon Alanyaspor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261017T160000Z
+DTEND:20261017T181500Z
+STATUS:CONFIRMED
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 8. Hafta\nKaynak: TFF (Türkiy
+ e Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId
+ =317853
+END:VEVENT
+BEGIN:VEVENT
+UID:b4aaa87b8c76dccd9dbf63b7@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Aliağa Petkim Spor
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART:20261018T123000Z
+DTEND:20261018T143000Z
+STATUS:CONFIRMED
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 4. Hafta
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:224cd94d26b99eff7bb1e2c8@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Slavia Praha
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261020T164500Z
+DTEND:20261020T190000Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 3. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:13f909add37c1749cbf78fa4@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Olympiacos - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261023T181500Z
+DTEND:20261023T201500Z
+STATUS:CONFIRMED
+LOCATION:Sunel Arena
+DESCRIPTION:Basketbol · EuroLeague · 7. Hafta\nKaynak: EuroLeague Basketb
+ all
+END:VEVENT
+BEGIN:VEVENT
+UID:ab4ab5c7787f8df332fb3ae9@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Karşıyaka - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART:20261025T123000Z
+DTEND:20261025T143000Z
+STATUS:CONFIRMED
+LOCATION:Mustafa Kemal Atatürk Karşıyaka Spor Salonu\, İzmir
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 5. Hafta
+ \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:11c4eafcaea0add0de5e2c47@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Galatasaray - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261026T183000Z
+DTEND:20261026T204500Z
+STATUS:CONFIRMED
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 9. Hafta\nKaynak: TFF (Türkiy
+ e Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId
+ =317862
+END:VEVENT
+BEGIN:VEVENT
+UID:528eafac2d78f761da2ba9db@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Valencia - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261027T193000Z
+DTEND:20261027T213000Z
+STATUS:CONFIRMED
+LOCATION:Roig Arena
+DESCRIPTION:Basketbol · EuroLeague · 8. Hafta\nKaynak: EuroLeague Basketb
+ all
+END:VEVENT
+BEGIN:VEVENT
+UID:8b7f9ae295e044886097e00e@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Real Madrid - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261029T194500Z
+DTEND:20261029T214500Z
+STATUS:CONFIRMED
+LOCATION:Movistar Arena
+DESCRIPTION:Basketbol · EuroLeague · 9. Hafta\nKaynak: EuroLeague Basketb
+ all
+END:VEVENT
+BEGIN:VEVENT
+UID:a91376150b0ac17a904ff4b1@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Tofaş
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 6. Hafta
+ \nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak 
+ görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: TB
+ F (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:b3341e5adf1a7511321ee038@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Göztepe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261031T160000Z
+DTEND:20261031T181500Z
+STATUS:CONFIRMED
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 10. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317871
+END:VEVENT
+BEGIN:VEVENT
+UID:086de07c0597d7599d30b512@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Liverpool
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261104T174500Z
+DTEND:20261104T200000Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 4. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:3914d78b040695a4e18718e2@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Baskonia
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261105T180000Z
+DTEND:20261105T200000Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 10. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:37b10bb5f22ea0cf171afbb3@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Bursaspor Basketbol - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Tofaş Spor Salonu\, Bursa
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 7. Hafta
+ \nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak 
+ görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: TB
+ F (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1c618f61ff5074a947f10a@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Arca Çorum FK - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261108T130000Z
+DTEND:20261108T151500Z
+STATUS:CONFIRMED
+LOCATION:Çorum Şehir Stadyumu
+DESCRIPTION:Futbol · Trendyol Süper Lig · 11. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317879
+END:VEVENT
+BEGIN:VEVENT
+UID:c6e7b18ae33534777d1a0982@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Paris - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261111T194500Z
+DTEND:20261111T214500Z
+STATUS:CONFIRMED
+LOCATION:Accor Arena
+DESCRIPTION:Basketbol · EuroLeague · 11. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:937127e78668fa12d7f61aac@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Anadolu Efes
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 8. Hafta
+ \nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak 
+ görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: TB
+ F (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:a06eee27fefd6f2ab1a56953@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - LDLC ASVEL
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261117T180000Z
+DTEND:20261117T200000Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 12. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:8e4d02110a2b42c929d5ec8a@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Milan - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261119T193000Z
+DTEND:20261119T213000Z
+STATUS:CONFIRMED
+LOCATION:Unipol Forum
+DESCRIPTION:Basketbol · EuroLeague · 13. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:7b095859f5a4da272a2a18a8@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Beşiktaş - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Turkcell Basketbol Gelişim Merkezi\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 9. Hafta
+ \nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak 
+ görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: TB
+ F (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:149125af5e8e7316641750b0@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Kocaelispor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261121T160000Z
+DTEND:20261121T181500Z
+STATUS:CONFIRMED
+LOCATION:Kocaeli Stadyumu\, Kocaeli
+DESCRIPTION:Futbol · Trendyol Süper Lig · 12. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317890
+END:VEVENT
+BEGIN:VEVENT
+UID:fa1bb5d3f2e714044187f6ed@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:FC Barcelona - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+STATUS:CONFIRMED
+LOCATION:Palau Blaugrana
+DESCRIPTION:Basketbol · EuroLeague · 14. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:23b17b664105dc945ca4750d@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Shakhtar - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261125T200000Z
+DTEND:20261125T221500Z
+STATUS:CONFIRMED
+LOCATION:Stamford Bridge\, London
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 5. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:e34fa38927a56b447b77caf4@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Erzurumspor FK
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261129T160000Z
+DTEND:20261129T181500Z
+STATUS:CONFIRMED
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 13. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317898
+END:VEVENT
+BEGIN:VEVENT
+UID:ed60d5efce2f636d5f7802cc@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Crvena Zvezda
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261203T174500Z
+DTEND:20261203T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 15. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:f29f1d9d0cd350f621e806ca@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Trabzonspor
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 10. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:c69a6385cc41add0c885b979@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:İstanbul Başakşehir FK - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261205T160000Z
+DTEND:20261205T181500Z
+STATUS:CONFIRMED
+LOCATION:Başakşehir Fatih Terim\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 14. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317903
+END:VEVENT
+BEGIN:VEVENT
+UID:faa0ff513eeb1acd2b5c83b9@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Lask - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261209T200000Z
+DTEND:20261209T221500Z
+STATUS:CONFIRMED
+LOCATION:Oberösterreich Arena\, Linz
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 6. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:5fdac3e8bb9a9fc17a4e6f98@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Anadolu Efes
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261210T174500Z
+DTEND:20261210T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 16. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:2259dfa8d0f601a3db908d7b@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Pizzabulls Bordo Bandırma - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Bandırma 17 Eylül Üniversitesi Spor Salonu\, Balıkesir
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 11. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:11895fb718cf80e2fd0e8550@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Trabzonspor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261213T160000Z
+DTEND:20261213T181500Z
+STATUS:CONFIRMED
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 15. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317916
+END:VEVENT
+BEGIN:VEVENT
+UID:345bdea5f72424261a36807c@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Hapoel TLV
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261215T174500Z
+DTEND:20261215T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 17. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:62bd15175c1022d81c0d0663@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Maccabi
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261217T174500Z
+DTEND:20261217T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 18. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:fc060b11ddd1284c28e91754@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Kasımpaşa - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261218T170000Z
+DTEND:20261218T191500Z
+STATUS:CONFIRMED
+LOCATION:Recep Tayyip Erdoğan Stadyumu
+DESCRIPTION:Futbol · Trendyol Süper Lig · 16. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317920
+END:VEVENT
+BEGIN:VEVENT
+UID:95e830b8657bd45f214195e0@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Türk Telekom
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 12. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:22f114736ea8a7ce4ca43f73@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Besiktas - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261222T170000Z
+DTEND:20261222T190000Z
+STATUS:CONFIRMED
+LOCATION:Turkcell Basketball Development Center
+DESCRIPTION:Basketbol · EuroLeague · 19. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:56c6d28e8fd2a3062e258fa3@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Yukatel Denizli Basket - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Pamukkale Üniversitesi Spor Salonu\, Denizli
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 13. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:f8bc7451e9e8c19eb2da8a95@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Panathinaikos
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20261229T174500Z
+DTEND:20261229T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 20. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:c08cceaa7d53532de8e151b3@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Galatasaray MCT Technic
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 14. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:8d4271c3bc38580c77aa93c2@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Anadolu Efes - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270107T173000Z
+DTEND:20270107T193000Z
+STATUS:CONFIRMED
+LOCATION:Turkcell Basketball Development Center
+DESCRIPTION:Basketbol · EuroLeague · 21. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:7666e1da5a3bca6f9353aea3@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Esenler Erokspor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Beşiktaş Akatlar Spor Kompleksi\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 15. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:56ff03138af5365f840bbfba@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Dubai - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270112T160000Z
+DTEND:20270112T180000Z
+STATUS:CONFIRMED
+LOCATION:Coca-Cola Arena
+DESCRIPTION:Basketbol · EuroLeague · 22. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:b583bd7727983f403e274b47@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Partizan - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270115T194500Z
+DTEND:20270115T214500Z
+STATUS:CONFIRMED
+LOCATION:Belgrade Arena
+DESCRIPTION:Basketbol · EuroLeague · 23. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:7244e8ff6aa233b2d8047549@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Bahçeşehir Koleji
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 16. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:80273bade791c6f4c4df3005@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Amed Sportif Faaliyetler
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 17. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317934
+END:VEVENT
+BEGIN:VEVENT
+UID:6e206fa81864f52826933cad@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Villarreal
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20270120T174500Z
+DTEND:20270120T200000Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 7. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:8f4018e3c537f24525928eb2@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Besiktas
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270121T174500Z
+DTEND:20270121T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 24. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:940529104b6ca519d6e21e6f@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Biotekno Körfez Basket - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Şehit Polis Recep Topaloğlu Spor Salonu\, Kocaeli
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 17. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:468f36efe3a1618efebfcb82@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Gençlerbirliği
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 18. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317941
+END:VEVENT
+BEGIN:VEVENT
+UID:0ff3732080bbf02f8422c727@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Atleti - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20270127T200000Z
+DTEND:20270127T221500Z
+STATUS:CONFIRMED
+LOCATION:Estadio Metropolitano\, Madrid
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 8. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:6b4698230b62657c9c60a610@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Real Madrid
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270129T174500Z
+DTEND:20270129T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 25. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:0db6c147cf8a387e28f55d72@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Çayırova Belediyesi
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 18. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:085007d54630cd484bc8c33d@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Tümosan Konyaspor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Medaş Konya Büyükşehir Stadyumu\, Konya
+DESCRIPTION:Futbol · Trendyol Süper Lig · 19. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317952
+END:VEVENT
+BEGIN:VEVENT
+UID:046837cb5df5d0793c2015eb@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Baskonia - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270202T193000Z
+DTEND:20270202T213000Z
+STATUS:CONFIRMED
+LOCATION:Buesa Arena
+DESCRIPTION:Basketbol · EuroLeague · 26. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:d27af4fbca79fda26a5424a6@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:LDLC ASVEL - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270205T190000Z
+DTEND:20270205T210000Z
+STATUS:CONFIRMED
+LOCATION:Astroballe
+DESCRIPTION:Basketbol · EuroLeague · 27. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:a59490412870518da437c828@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Aliağa Petkim Spor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Enka Spor Salonu\, İzmir
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 19. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:e3826982a0677bf8bd15248d@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Samsunspor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 20. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317963
+END:VEVENT
+BEGIN:VEVENT
+UID:49be78ad108cae55f8d96b81@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Milan
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270212T174500Z
+DTEND:20270212T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 28. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:83e503fc4efb0d7334697b5d@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Karşıyaka
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 20. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:179bfdd3d24fda81a56e00f6@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Beşiktaş - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Beşiktaş Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 21. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317970
+END:VEVENT
+BEGIN:VEVENT
+UID:19f2990a5229d066f79726b5@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Gaziantep Futbol Kulübü
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 22. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317973
+END:VEVENT
+BEGIN:VEVENT
+UID:1acc11c7ae98c61394936b99@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Eyüpspor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+DESCRIPTION:Futbol · Trendyol Süper Lig · 23. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317988
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c62d39369efd18cf91fa2a@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Crvena Zvezda - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270305T190000Z
+DTEND:20270305T210000Z
+STATUS:CONFIRMED
+LOCATION:Belgrade Arena
+DESCRIPTION:Basketbol · EuroLeague · 29. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:7e98470f6b67cc36dea53e29@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Tofaş - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Tofaş Spor Salonu\, Bursa
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 21. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:95d3c27131911cb3a887dcf5@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Çaykur Rizespor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 24. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317994
+END:VEVENT
+BEGIN:VEVENT
+UID:f6dd12f89597fb512588cb7c@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Virtus Bologna - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270309T193000Z
+DTEND:20270309T213000Z
+STATUS:CONFIRMED
+LOCATION:Virtus Arena
+DESCRIPTION:Basketbol · EuroLeague · 30. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:0f8c8ca50c0030efee740aa9@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Valencia
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270312T174500Z
+DTEND:20270312T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 31. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:13b802b5838651bf1fb53553@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Bursaspor Basketbol
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 22. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:9343b21fdcb8ab304d897bfc@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Corendon Alanyaspor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Alanya Oba Stadyumu\, Antalya
+DESCRIPTION:Futbol · Trendyol Süper Lig · 25. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318006
+END:VEVENT
+BEGIN:VEVENT
+UID:dc0dfd84bd183e607a41a2e5@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Paris
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270318T174500Z
+DTEND:20270318T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 32. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:2717b7bf358b5ccb72bcd11c@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Anadolu Efes - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Turkcell Basketbol Gelişim Merkezi\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 23. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:ce060871d9eb8be07a8fec6d@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Galatasaray
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 26. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318015
+END:VEVENT
+BEGIN:VEVENT
+UID:43ca8a64db526db5716aa377@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Hapoel TLV - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270323T180000Z
+DTEND:20270323T200000Z
+STATUS:CONFIRMED
+LOCATION:Arena 8888 Sofia
+DESCRIPTION:Basketbol · EuroLeague · 33. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:f1fd5d859a74b07c0a19217b@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - FC Barcelona
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270326T174500Z
+DTEND:20270326T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 34. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:1581f3128bd471c324163cbf@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Beşiktaş
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 24. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:9919f09a92f38f7d1632a604@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Maccabi - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270401T180500Z
+DTEND:20270401T200500Z
+STATUS:CONFIRMED
+LOCATION:Aleksandar Nikolic Hall
+DESCRIPTION:Basketbol · EuroLeague · 35. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:07d1fad50384252cc8427280@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Trabzonspor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Hayri Gür Spor Salonu\, Trabzon
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 25. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:7eff59c77e6a58534f79266c@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Göztepe - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Isonem Park Gürsel Aksel Spor Ve Sağlıklı Yaşam M.
+DESCRIPTION:Futbol · Trendyol Süper Lig · 27. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318024
+END:VEVENT
+BEGIN:VEVENT
+UID:9c58af6c61e2ebd46684a7eb@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Olympiacos
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270406T174500Z
+DTEND:20270406T194500Z
+STATUS:CONFIRMED
+LOCATION:Ulker Sports And Event Hall
+DESCRIPTION:Basketbol · EuroLeague · 36. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:2a160301fabdf68d2011c66f@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Bayern Munich - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270408T180000Z
+DTEND:20270408T200000Z
+STATUS:CONFIRMED
+LOCATION:Sap Garden
+DESCRIPTION:Basketbol · EuroLeague · 37. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:2a0e24895d2e6ec93ce3d5a4@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Pizzabulls Bordo Bandırma
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 26. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:b30c7da67dccf96c4ef67eb6@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Arca Çorum FK
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 28. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318032
+END:VEVENT
+BEGIN:VEVENT
+UID:5a85e6e085dd347490bb96ad@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Zalgiris - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
+DTSTART:20270415T170000Z
+DTEND:20270415T190000Z
+STATUS:CONFIRMED
+LOCATION:Zalgirio Arena
+DESCRIPTION:Basketbol · EuroLeague · 38. Hafta\nKaynak: EuroLeague Basket
+ ball
+END:VEVENT
+BEGIN:VEVENT
+UID:e0a0db2ba1a67a60ba3433dc@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Türk Telekom - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ankara Spor Salonu\, Ankara
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 27. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b90cc9ac8fc05397d9cde0@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Kocaelispor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 29. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318043
+END:VEVENT
+BEGIN:VEVENT
+UID:746acc3dbf7bdf4c42ab3a23@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Yukatel Denizli Basket
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 28. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:c75b87b2a8f9efda3ff170fa@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Erzurumspor FK - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Erzurum Kazım Karabekir
+DESCRIPTION:Futbol · Trendyol Süper Lig · 30. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318051
+END:VEVENT
+BEGIN:VEVENT
+UID:b661268e0ddcb1491a0337ed@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Galatasaray MCT Technic - Fenerbahçe
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Sinan Erdem Spor Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 29. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:20c54dbf3df99f1adb1f78fb@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - İstanbul Başakşehir FK
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 31. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318056
+END:VEVENT
+BEGIN:VEVENT
+UID:82fc1fd4a8d7b925d88886de@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Esenler Erokspor
+CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
+DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 30. Haft
+ a\nMaç saati henüz açıklanmadı\; takvimde tüm gün etkinliği olarak
+  görünür. Saat kesinleşince etkinlik otomatik güncellenir.\nKaynak: T
+ BF (Türkiye Basketbol Federasyonu)
+END:VEVENT
+BEGIN:VEVENT
+UID:9b74d32bba32c94810a0ac4c@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Trabzonspor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Papara Park\, Trabzon
+DESCRIPTION:Futbol · Trendyol Süper Lig · 32. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318069
+END:VEVENT
+BEGIN:VEVENT
+UID:35ece1c398cba849f2414d79@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Kasımpaşa
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 33. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318073
+END:VEVENT
+BEGIN:VEVENT
+UID:f82c14b34d7fb15ae82f86cc@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Amed Sportif Faaliyetler - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Diyarbakır Stadyumu
+DESCRIPTION:Futbol · Trendyol Süper Lig · 34. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318087
+END:VEVENT
+END:VCALENDAR

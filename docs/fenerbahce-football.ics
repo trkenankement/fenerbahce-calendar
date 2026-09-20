@@ -1,0 +1,652 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fenerbahce-calendar//TR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Fenerbahçe Futbol Maçları
+X-WR-CALNAME:Fenerbahçe Futbol Maçları
+X-WR-CALDESC:Fenerbahçe erkek futbol takımının maçları
+X-WR-TIMEZONE:Europe/Istanbul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:bd25431bfcd43dc3dd132ede@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Górnik Zabrze
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260721T180000Z
+DTEND:20260721T201500Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · 2. Ön Eleme Turu\nSonuç: 
+ 1-0\nKaynak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:94baf1a6a6a31cc8bb5bc761@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Górnik Zabrze - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260729T180000Z
+DTEND:20260729T201500Z
+STATUS:CONFIRMED
+LOCATION:Arena Zabrze\, Zabrze
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · 2. Ön Eleme Turu\nSonuç: 
+ 1-1\nKaynak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:2a05c9e598a3bd644077f323@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Sturm Graz
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260805T180000Z
+DTEND:20260805T201500Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · 3. Ön Eleme Turu\nSonuç: 
+ 2-0\nKaynak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:44d4687af4b559d44c04da89@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Sturm Graz - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260811T183000Z
+DTEND:20260811T204500Z
+STATUS:CONFIRMED
+LOCATION:Stadium Graz Liebenau\, Graz
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · 3. Ön Eleme Turu\nSonuç: 
+ 0-1\nKaynak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:f55741f185722d50673a9aea@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Gençlerbirliği - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20260815T183000Z
+DTEND:20260815T204500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 1. Hafta\nSonuç: 2-1\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317788
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c0435d3dcce4faae54dba9@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Lyon
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260818T190000Z
+DTEND:20260818T211500Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Play-Off\nSonuç: 1-1\nKayn
+ ak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:78de827c16e4325600c5d430@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Tümosan Konyaspor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20260822T183000Z
+DTEND:20260822T204500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 2. Hafta\nSonuç: 4-2\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317799
+END:VEVENT
+BEGIN:VEVENT
+UID:7bfa26e8a291ae66784f5b20@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Lyon - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260826T190000Z
+DTEND:20260826T211500Z
+STATUS:CONFIRMED
+LOCATION:OL Stadium\, Décines
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Play-Off\nSonuç: 1-2\nKayn
+ ak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:b9354a2f5430dde955a35698@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Samsunspor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20260830T183000Z
+DTEND:20260830T204500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 3. Hafta\nSonuç: 0-2\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317810
+END:VEVENT
+BEGIN:VEVENT
+UID:343d4056343a9bd499d64b83@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Beşiktaş
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20260905T170000Z
+DTEND:20260905T191500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 4. Hafta\nSonuç: 1-2\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317817
+END:VEVENT
+BEGIN:VEVENT
+UID:9e40f86dab650d2673d3f953@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Roma
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20260910T164500Z
+DTEND:20260910T190000Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 1. Hafta\nSon
+ uç: 1-1\nKaynak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:294f709afc25affd5408bce8@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Gaziantep Futbol Kulübü - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20260914T170000Z
+DTEND:20260914T191500Z
+STATUS:CONFIRMED
+DESCRIPTION:Futbol · Trendyol Süper Lig · 5. Hafta\nSonuç: 0-0\nKaynak:
+  TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pa
+ geId=29&macId=317820
+END:VEVENT
+BEGIN:VEVENT
+UID:792a3d7df2e30480b11f2d25@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Eyüpspor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20260920T140000Z
+DTEND:20260920T161500Z
+STATUS:CONFIRMED
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 6. Hafta\nKaynak: TFF (Türkiy
+ e Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId
+ =317835
+END:VEVENT
+BEGIN:VEVENT
+UID:bafdcdf09900888abf57381e@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Çaykur Rizespor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261010T160000Z
+DTEND:20261010T181500Z
+STATUS:CONFIRMED
+LOCATION:Çaykur Didi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 7. Hafta\nKaynak: TFF (Türkiy
+ e Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId
+ =317841
+END:VEVENT
+BEGIN:VEVENT
+UID:53fc04789d16e987da078d7f@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Aston Villa - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261014T190000Z
+DTEND:20261014T211500Z
+STATUS:CONFIRMED
+LOCATION:Villa Park\, Birmingham
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 2. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:e51c7e73b32d5e24fb592dec@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Corendon Alanyaspor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261017T160000Z
+DTEND:20261017T181500Z
+STATUS:CONFIRMED
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 8. Hafta\nKaynak: TFF (Türkiy
+ e Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId
+ =317853
+END:VEVENT
+BEGIN:VEVENT
+UID:224cd94d26b99eff7bb1e2c8@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Slavia Praha
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261020T164500Z
+DTEND:20261020T190000Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 3. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:11c4eafcaea0add0de5e2c47@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Galatasaray - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261026T183000Z
+DTEND:20261026T204500Z
+STATUS:CONFIRMED
+LOCATION:Ali Sami Yen Spor Kompleksi Rams Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 9. Hafta\nKaynak: TFF (Türkiy
+ e Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId
+ =317862
+END:VEVENT
+BEGIN:VEVENT
+UID:b3341e5adf1a7511321ee038@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Göztepe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261031T160000Z
+DTEND:20261031T181500Z
+STATUS:CONFIRMED
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 10. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317871
+END:VEVENT
+BEGIN:VEVENT
+UID:086de07c0597d7599d30b512@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Liverpool
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261104T174500Z
+DTEND:20261104T200000Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 4. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1c618f61ff5074a947f10a@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Arca Çorum FK - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261108T130000Z
+DTEND:20261108T151500Z
+STATUS:CONFIRMED
+LOCATION:Çorum Şehir Stadyumu
+DESCRIPTION:Futbol · Trendyol Süper Lig · 11. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317879
+END:VEVENT
+BEGIN:VEVENT
+UID:149125af5e8e7316641750b0@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Kocaelispor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261121T160000Z
+DTEND:20261121T181500Z
+STATUS:CONFIRMED
+LOCATION:Kocaeli Stadyumu\, Kocaeli
+DESCRIPTION:Futbol · Trendyol Süper Lig · 12. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317890
+END:VEVENT
+BEGIN:VEVENT
+UID:23b17b664105dc945ca4750d@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Shakhtar - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261125T200000Z
+DTEND:20261125T221500Z
+STATUS:CONFIRMED
+LOCATION:Stamford Bridge\, London
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 5. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:e34fa38927a56b447b77caf4@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Erzurumspor FK
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261129T160000Z
+DTEND:20261129T181500Z
+STATUS:CONFIRMED
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 13. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317898
+END:VEVENT
+BEGIN:VEVENT
+UID:c69a6385cc41add0c885b979@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:İstanbul Başakşehir FK - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261205T160000Z
+DTEND:20261205T181500Z
+STATUS:CONFIRMED
+LOCATION:Başakşehir Fatih Terim\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 14. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317903
+END:VEVENT
+BEGIN:VEVENT
+UID:faa0ff513eeb1acd2b5c83b9@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Lask - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20261209T200000Z
+DTEND:20261209T221500Z
+STATUS:CONFIRMED
+LOCATION:Oberösterreich Arena\, Linz
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 6. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:11895fb718cf80e2fd0e8550@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Trabzonspor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261213T160000Z
+DTEND:20261213T181500Z
+STATUS:CONFIRMED
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 15. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317916
+END:VEVENT
+BEGIN:VEVENT
+UID:fc060b11ddd1284c28e91754@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Kasımpaşa - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART:20261218T170000Z
+DTEND:20261218T191500Z
+STATUS:CONFIRMED
+LOCATION:Recep Tayyip Erdoğan Stadyumu
+DESCRIPTION:Futbol · Trendyol Süper Lig · 16. Hafta\nKaynak: TFF (Türki
+ ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
+ d=317920
+END:VEVENT
+BEGIN:VEVENT
+UID:80273bade791c6f4c4df3005@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Amed Sportif Faaliyetler
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 17. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317934
+END:VEVENT
+BEGIN:VEVENT
+UID:6e206fa81864f52826933cad@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Villarreal
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20270120T174500Z
+DTEND:20270120T200000Z
+STATUS:CONFIRMED
+LOCATION:Fenerbahçe Şükrü Saracoğlu Spor Kompleksi\, Istanbul
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 7. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:468f36efe3a1618efebfcb82@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Gençlerbirliği
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 18. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317941
+END:VEVENT
+BEGIN:VEVENT
+UID:0ff3732080bbf02f8422c727@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Atleti - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
+DTSTART:20270127T200000Z
+DTEND:20270127T221500Z
+STATUS:CONFIRMED
+LOCATION:Estadio Metropolitano\, Madrid
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 8. Hafta\nKay
+ nak: UEFA
+END:VEVENT
+BEGIN:VEVENT
+UID:085007d54630cd484bc8c33d@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Tümosan Konyaspor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Medaş Konya Büyükşehir Stadyumu\, Konya
+DESCRIPTION:Futbol · Trendyol Süper Lig · 19. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317952
+END:VEVENT
+BEGIN:VEVENT
+UID:e3826982a0677bf8bd15248d@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Samsunspor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 20. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317963
+END:VEVENT
+BEGIN:VEVENT
+UID:179bfdd3d24fda81a56e00f6@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Beşiktaş - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Beşiktaş Park\, İstanbul
+DESCRIPTION:Futbol · Trendyol Süper Lig · 21. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317970
+END:VEVENT
+BEGIN:VEVENT
+UID:19f2990a5229d066f79726b5@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Gaziantep Futbol Kulübü
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 22. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317973
+END:VEVENT
+BEGIN:VEVENT
+UID:1acc11c7ae98c61394936b99@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Eyüpspor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+DESCRIPTION:Futbol · Trendyol Süper Lig · 23. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317988
+END:VEVENT
+BEGIN:VEVENT
+UID:95d3c27131911cb3a887dcf5@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Çaykur Rizespor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 24. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=317994
+END:VEVENT
+BEGIN:VEVENT
+UID:9343b21fdcb8ab304d897bfc@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Corendon Alanyaspor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Alanya Oba Stadyumu\, Antalya
+DESCRIPTION:Futbol · Trendyol Süper Lig · 25. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318006
+END:VEVENT
+BEGIN:VEVENT
+UID:ce060871d9eb8be07a8fec6d@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Galatasaray
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 26. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318015
+END:VEVENT
+BEGIN:VEVENT
+UID:7eff59c77e6a58534f79266c@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Göztepe - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Isonem Park Gürsel Aksel Spor Ve Sağlıklı Yaşam M.
+DESCRIPTION:Futbol · Trendyol Süper Lig · 27. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318024
+END:VEVENT
+BEGIN:VEVENT
+UID:b30c7da67dccf96c4ef67eb6@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Arca Çorum FK
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 28. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318032
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b90cc9ac8fc05397d9cde0@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Kocaelispor
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 29. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318043
+END:VEVENT
+BEGIN:VEVENT
+UID:c75b87b2a8f9efda3ff170fa@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Erzurumspor FK - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Erzurum Kazım Karabekir
+DESCRIPTION:Futbol · Trendyol Süper Lig · 30. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318051
+END:VEVENT
+BEGIN:VEVENT
+UID:20c54dbf3df99f1adb1f78fb@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - İstanbul Başakşehir FK
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 31. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318056
+END:VEVENT
+BEGIN:VEVENT
+UID:9b74d32bba32c94810a0ac4c@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Trabzonspor - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Papara Park\, Trabzon
+DESCRIPTION:Futbol · Trendyol Süper Lig · 32. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318069
+END:VEVENT
+BEGIN:VEVENT
+UID:35ece1c398cba849f2414d79@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Fenerbahçe - Kasımpaşa
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Chobanı Stadyumu Fb Şükrü Saracoğlu Spor Kompleksi
+DESCRIPTION:Futbol · Trendyol Süper Lig · 33. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318073
+END:VEVENT
+BEGIN:VEVENT
+UID:f82c14b34d7fb15ae82f86cc@fenerbahce-calendar
+DTSTAMP:20260920T145457Z
+SUMMARY:Amed Sportif Faaliyetler - Fenerbahçe
+CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Diyarbakır Stadyumu
+DESCRIPTION:Futbol · Trendyol Süper Lig · 34. Hafta\nMaç saati henüz a
+ çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
+ nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
+ derasyonu) — https://www.tff.org/Default.aspx?pageId=29&macId=318087
+END:VEVENT
+END:VCALENDAR
