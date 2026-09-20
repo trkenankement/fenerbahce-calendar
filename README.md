@@ -16,19 +16,24 @@ sonuçlar takviminize kendiliğinden yansır.
 
 Web sayfası: **<https://trkenankement.github.io/fenerbahce-calendar/>**
 
-| Takvim | Apple Takvim (iPhone, iPad, Mac) | Google Takvim (Android) | Outlook ve diğerleri (URL ile ekle) |
-| --- | --- | --- | --- |
-| Tüm maçlar | [webcal://…/fenerbahce-all.ics](webcal://trkenankement.github.io/fenerbahce-calendar/fenerbahce-all.ics) | [Google Takvim'e ekle](https://calendar.google.com/calendar/r?cid=webcal://trkenankement.github.io/fenerbahce-calendar/fenerbahce-all.ics) | `https://trkenankement.github.io/fenerbahce-calendar/fenerbahce-all.ics` |
-| Futbol | [webcal://…/fenerbahce-football.ics](webcal://trkenankement.github.io/fenerbahce-calendar/fenerbahce-football.ics) | [Google Takvim'e ekle](https://calendar.google.com/calendar/r?cid=webcal://trkenankement.github.io/fenerbahce-calendar/fenerbahce-football.ics) | `https://trkenankement.github.io/fenerbahce-calendar/fenerbahce-football.ics` |
-| Basketbol | [webcal://…/fenerbahce-basketball.ics](webcal://trkenankement.github.io/fenerbahce-calendar/fenerbahce-basketball.ics) | [Google Takvim'e ekle](https://calendar.google.com/calendar/r?cid=webcal://trkenankement.github.io/fenerbahce-calendar/fenerbahce-basketball.ics) | `https://trkenankement.github.io/fenerbahce-calendar/fenerbahce-basketball.ics` |
+Sayfadaki **Takvime abone ol** düğmesi cihazınıza göre çalışır: iPhone, iPad ve Mac'te Apple Takvim'e,
+Android'de Google Takvim'e ekler; bilgisayarda ikisi de görünür. Ayrı bir **.ics indir** bağlantısı da vardır.
+iPhone, iPad ve Mac için sayfadaki düğmeyi kullanın (GitHub `webcal://` bağlantılarını tıklanabilir
+göstermediği için buraya konmadı).
 
-Web sayfasında her takvim için **Apple Takvim** ve **Google Takvim** düğmeleri ile ayrı bir **.ics indir** bağlantısı bulunur.
+| Takvim | Google Takvim | Adres (Outlook ve diğerleri için) |
+| --- | --- | --- |
+| Tüm maçlar | [Google Takvim'e ekle](https://calendar.google.com/calendar/r?cid=webcal://trkenankement.github.io/fenerbahce-calendar/fenerbahce-all.ics) | `https://trkenankement.github.io/fenerbahce-calendar/fenerbahce-all.ics` |
+| Futbol | [Google Takvim'e ekle](https://calendar.google.com/calendar/r?cid=webcal://trkenankement.github.io/fenerbahce-calendar/fenerbahce-football.ics) | `https://trkenankement.github.io/fenerbahce-calendar/fenerbahce-football.ics` |
+| Basketbol | [Google Takvim'e ekle](https://calendar.google.com/calendar/r?cid=webcal://trkenankement.github.io/fenerbahce-calendar/fenerbahce-basketball.ics) | `https://trkenankement.github.io/fenerbahce-calendar/fenerbahce-basketball.ics` |
 
-> **Android:** Google Takvim uygulaması telefonda URL ile abone olmayı desteklemez. Bu yüzden Google Takvim
-> bağlantısı, ekleme onayının yapıldığı Google Takvim web sayfasını açar; telefonda açılmazsa tarayıcıda
-> "Masaüstü sitesi"ni seçin ya da bağlantıyı bilgisayarda açın. Eklenen takvim telefona kendiliğinden gelir.
-> Yalnızca telefonla tek dokunuşta abone olmak isteyenler için açık kaynaklı [ICSx⁵](https://icsx5.bitfire.at/)
-> uygulaması `webcal://` bağlantılarını açabilir (F-Droid'de ücretsiz, Google Play'de küçük bir ücretle).
+Adresi Outlook ve diğer uygulamalarda "URL ile takvim ekle" seçeneğine yapıştırın.
+
+> **Android:** Google Takvim uygulaması telefonda URL ile abone olmayı desteklemez. Bu yüzden düğme, ekleme
+> onayının yapıldığı Google Takvim web sayfasını açar; telefonda açılmazsa tarayıcıda "Masaüstü sitesi"ni seçin
+> ya da bağlantıyı bilgisayarda açın. Eklenen takvim telefona kendiliğinden gelir. Yalnızca telefonla tek
+> dokunuşta abone olmak isteyenler için açık kaynaklı [ICSx⁵](https://icsx5.bitfire.at/) uygulaması
+> `webcal://` bağlantılarını açabilir (F-Droid'de ücretsiz, Google Play'de küçük bir ücretle).
 >
 > **.ics indir:** dosyayı indirip açarsanız maçlar yalnızca bir kez eklenir, sonradan güncellenmez.
 
