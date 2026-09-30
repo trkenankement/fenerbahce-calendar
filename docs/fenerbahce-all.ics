@@ -12,7 +12,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:bd25431bfcd43dc3dd132ede@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Górnik Zabrze
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20260721T180000Z
@@ -24,7 +24,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · 2. Ön Eleme Turu\nSonuç:
 END:VEVENT
 BEGIN:VEVENT
 UID:94baf1a6a6a31cc8bb5bc761@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Górnik Zabrze - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20260729T180000Z
@@ -36,7 +36,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · 2. Ön Eleme Turu\nSonuç:
 END:VEVENT
 BEGIN:VEVENT
 UID:2a05c9e598a3bd644077f323@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Sturm Graz
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20260805T180000Z
@@ -48,7 +48,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · 3. Ön Eleme Turu\nSonuç:
 END:VEVENT
 BEGIN:VEVENT
 UID:44d4687af4b559d44c04da89@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Sturm Graz - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20260811T183000Z
@@ -60,7 +60,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · 3. Ön Eleme Turu\nSonuç:
 END:VEVENT
 BEGIN:VEVENT
 UID:f55741f185722d50673a9aea@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Gençlerbirliği - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20260815T183000Z
@@ -72,7 +72,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 1. Hafta\nSonuç: 2-1\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:b6c0435d3dcce4faae54dba9@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Lyon
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20260818T190000Z
@@ -84,7 +84,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Play-Off\nSonuç: 1-1\nKayn
 END:VEVENT
 BEGIN:VEVENT
 UID:78de827c16e4325600c5d430@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Tümosan Konyaspor
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20260822T183000Z
@@ -96,7 +96,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 2. Hafta\nSonuç: 4-2\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:7bfa26e8a291ae66784f5b20@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Lyon - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20260826T190000Z
@@ -108,7 +108,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Play-Off\nSonuç: 1-2\nKayn
 END:VEVENT
 BEGIN:VEVENT
 UID:b9354a2f5430dde955a35698@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Samsunspor - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20260830T183000Z
@@ -120,7 +120,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 3. Hafta\nSonuç: 0-2\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:343d4056343a9bd499d64b83@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Beşiktaş
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20260905T170000Z
@@ -132,7 +132,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 4. Hafta\nSonuç: 1-2\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:9e40f86dab650d2673d3f953@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Roma
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20260910T164500Z
@@ -144,7 +144,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 1. Hafta\nSon
 END:VEVENT
 BEGIN:VEVENT
 UID:294f709afc25affd5408bce8@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Gaziantep Futbol Kulübü - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20260914T170000Z
@@ -156,7 +156,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 5. Hafta\nSonuç: 0-0\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:792a3d7df2e30480b11f2d25@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Eyüpspor
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20260920T140000Z
@@ -168,7 +168,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 6. Hafta\nSonuç: 8-0\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:f6a26a50b94283d72909e54f@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Beşiktaş
 CATEGORIES:Fenerbahçe,Basketbol,Cumhurbaşkanlığı Kupası
 DTSTART:20260922T170000Z
@@ -180,7 +180,7 @@ DESCRIPTION:Basketbol · Cumhurbaşkanlığı Kupası\nSonuç: 72-59\nKayna
 END:VEVENT
 BEGIN:VEVENT
 UID:971fd1a2aa8f3e4431308f36@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Virtus Bologna
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20260925T174500Z
@@ -192,7 +192,7 @@ DESCRIPTION:Basketbol · EuroLeague · 1. Hafta\nSonuç: 78-68\nKaynak: Eur
 END:VEVENT
 BEGIN:VEVENT
 UID:e609779c63206c572e1f6c2d@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Bahçeşehir Koleji - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20260927T150000Z
@@ -205,19 +205,19 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 1. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:ff86bf34dfaacbd75ca1207c@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Bayern Munich
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20260929T174500Z
 DTEND:20260929T194500Z
 STATUS:CONFIRMED
 LOCATION:Ulker Sports And Event Hall
-DESCRIPTION:Basketbol · EuroLeague · 2. Hafta\nKaynak: EuroLeague Basketb
- all
+DESCRIPTION:Basketbol · EuroLeague · 2. Hafta\nSonuç: 100-76\nKaynak: Eu
+ roLeague Basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:8254d31ab6ec84fb318b1072@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Dubai
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261002T174500Z
@@ -229,7 +229,7 @@ DESCRIPTION:Basketbol · EuroLeague · 3. Hafta\nKaynak: EuroLeague Basketb
 END:VEVENT
 BEGIN:VEVENT
 UID:ef19a20cc170e6d07c7ac532@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Biotekno Körfez Basket
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261004T123000Z
@@ -241,7 +241,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 2. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:4c976ad0f6a35e3e0b324212@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Panathinaikos - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261008T181500Z
@@ -253,7 +253,7 @@ DESCRIPTION:Basketbol · EuroLeague · 4. Hafta\nKaynak: EuroLeague Basketb
 END:VEVENT
 BEGIN:VEVENT
 UID:bafdcdf09900888abf57381e@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Çaykur Rizespor - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20261010T160000Z
@@ -266,7 +266,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 7. Hafta\nKaynak: TFF (Türkiy
 END:VEVENT
 BEGIN:VEVENT
 UID:2832e712a2ae1a7f611abadf@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Çayırova Belediyesi - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261010T173000Z
@@ -278,7 +278,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 3. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:81b03049d97adfff26a3eb6e@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Zalgiris
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261013T174500Z
@@ -290,7 +290,7 @@ DESCRIPTION:Basketbol · EuroLeague · 5. Hafta\nKaynak: EuroLeague Basketb
 END:VEVENT
 BEGIN:VEVENT
 UID:53fc04789d16e987da078d7f@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Aston Villa - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20261014T190000Z
@@ -302,7 +302,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 2. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:c9ad64a7fc274ec4162ee58c@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Partizan
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261015T174500Z
@@ -314,7 +314,7 @@ DESCRIPTION:Basketbol · EuroLeague · 6. Hafta\nKaynak: EuroLeague Basketb
 END:VEVENT
 BEGIN:VEVENT
 UID:e51c7e73b32d5e24fb592dec@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Corendon Alanyaspor
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20261017T160000Z
@@ -327,7 +327,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 8. Hafta\nKaynak: TFF (Türkiy
 END:VEVENT
 BEGIN:VEVENT
 UID:b4aaa87b8c76dccd9dbf63b7@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Aliağa Petkim Spor
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261018T123000Z
@@ -339,7 +339,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 4. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:224cd94d26b99eff7bb1e2c8@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Slavia Praha
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20261020T164500Z
@@ -351,7 +351,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 3. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:13f909add37c1749cbf78fa4@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Olympiacos - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261023T181500Z
@@ -363,7 +363,7 @@ DESCRIPTION:Basketbol · EuroLeague · 7. Hafta\nKaynak: EuroLeague Basketb
 END:VEVENT
 BEGIN:VEVENT
 UID:ab4ab5c7787f8df332fb3ae9@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Karşıyaka - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261025T123000Z
@@ -375,7 +375,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 5. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:11c4eafcaea0add0de5e2c47@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Galatasaray - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20261026T183000Z
@@ -388,7 +388,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 9. Hafta\nKaynak: TFF (Türkiy
 END:VEVENT
 BEGIN:VEVENT
 UID:528eafac2d78f761da2ba9db@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Valencia - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261027T193000Z
@@ -400,7 +400,7 @@ DESCRIPTION:Basketbol · EuroLeague · 8. Hafta\nKaynak: EuroLeague Basketb
 END:VEVENT
 BEGIN:VEVENT
 UID:8b7f9ae295e044886097e00e@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Real Madrid - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261029T194500Z
@@ -412,7 +412,7 @@ DESCRIPTION:Basketbol · EuroLeague · 9. Hafta\nKaynak: EuroLeague Basketb
 END:VEVENT
 BEGIN:VEVENT
 UID:a91376150b0ac17a904ff4b1@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Tofaş
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20261031
@@ -427,7 +427,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 6. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:b3341e5adf1a7511321ee038@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Göztepe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20261031T160000Z
@@ -440,7 +440,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 10. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:086de07c0597d7599d30b512@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Liverpool
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20261104T174500Z
@@ -452,7 +452,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 4. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:3914d78b040695a4e18718e2@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Baskonia
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261105T180000Z
@@ -464,7 +464,7 @@ DESCRIPTION:Basketbol · EuroLeague · 10. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:37b10bb5f22ea0cf171afbb3@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Bursaspor Basketbol - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20261107
@@ -479,7 +479,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 7. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:9d1c618f61ff5074a947f10a@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Arca Çorum FK - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20261108T130000Z
@@ -492,7 +492,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 11. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:c6e7b18ae33534777d1a0982@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Paris - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261111T194500Z
@@ -504,7 +504,7 @@ DESCRIPTION:Basketbol · EuroLeague · 11. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:937127e78668fa12d7f61aac@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Anadolu Efes
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20261114
@@ -519,7 +519,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 8. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:a06eee27fefd6f2ab1a56953@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - LDLC ASVEL
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261117T180000Z
@@ -531,7 +531,7 @@ DESCRIPTION:Basketbol · EuroLeague · 12. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:8e4d02110a2b42c929d5ec8a@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Milan - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261119T193000Z
@@ -543,7 +543,7 @@ DESCRIPTION:Basketbol · EuroLeague · 13. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:7b095859f5a4da272a2a18a8@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Beşiktaş - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20261121
@@ -558,7 +558,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 9. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:149125af5e8e7316641750b0@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Kocaelispor - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20261121T160000Z
@@ -571,7 +571,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 12. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:fa1bb5d3f2e714044187f6ed@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:FC Barcelona - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261124T200000Z
@@ -583,7 +583,7 @@ DESCRIPTION:Basketbol · EuroLeague · 14. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:23b17b664105dc945ca4750d@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Shakhtar - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20261125T200000Z
@@ -595,7 +595,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 5. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:e34fa38927a56b447b77caf4@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Erzurumspor FK
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20261129T160000Z
@@ -608,7 +608,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 13. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:ed60d5efce2f636d5f7802cc@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Crvena Zvezda
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261203T174500Z
@@ -620,7 +620,7 @@ DESCRIPTION:Basketbol · EuroLeague · 15. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:f29f1d9d0cd350f621e806ca@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Trabzonspor
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20261205
@@ -635,7 +635,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 10. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:c69a6385cc41add0c885b979@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:İstanbul Başakşehir FK - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20261205T160000Z
@@ -648,7 +648,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 14. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:faa0ff513eeb1acd2b5c83b9@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Lask - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20261209T200000Z
@@ -660,7 +660,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 6. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:5fdac3e8bb9a9fc17a4e6f98@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Anadolu Efes
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261210T174500Z
@@ -672,7 +672,7 @@ DESCRIPTION:Basketbol · EuroLeague · 16. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:2259dfa8d0f601a3db908d7b@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Pizzabulls Bordo Bandırma - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20261212
@@ -687,7 +687,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 11. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:11895fb718cf80e2fd0e8550@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Trabzonspor
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20261213T160000Z
@@ -700,7 +700,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 15. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:345bdea5f72424261a36807c@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Hapoel TLV
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261215T174500Z
@@ -712,7 +712,7 @@ DESCRIPTION:Basketbol · EuroLeague · 17. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:62bd15175c1022d81c0d0663@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Maccabi
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261217T174500Z
@@ -724,7 +724,7 @@ DESCRIPTION:Basketbol · EuroLeague · 18. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:fc060b11ddd1284c28e91754@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Kasımpaşa - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20261218T170000Z
@@ -737,7 +737,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 16. Hafta\nKaynak: TFF (Türki
 END:VEVENT
 BEGIN:VEVENT
 UID:95e830b8657bd45f214195e0@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Türk Telekom
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20261219
@@ -752,7 +752,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 12. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:22f114736ea8a7ce4ca43f73@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Besiktas - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261222T170000Z
@@ -764,7 +764,7 @@ DESCRIPTION:Basketbol · EuroLeague · 19. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:56c6d28e8fd2a3062e258fa3@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Yukatel Denizli Basket - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20261226
@@ -779,7 +779,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 13. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:f8bc7451e9e8c19eb2da8a95@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Panathinaikos
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261229T174500Z
@@ -791,7 +791,7 @@ DESCRIPTION:Basketbol · EuroLeague · 20. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:c08cceaa7d53532de8e151b3@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Galatasaray MCT Technic
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270102
@@ -806,7 +806,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 14. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:8d4271c3bc38580c77aa93c2@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Anadolu Efes - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270107T173000Z
@@ -818,7 +818,7 @@ DESCRIPTION:Basketbol · EuroLeague · 21. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:7666e1da5a3bca6f9353aea3@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Esenler Erokspor - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270109
@@ -833,7 +833,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 15. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:56ff03138af5365f840bbfba@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Dubai - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270112T160000Z
@@ -845,7 +845,7 @@ DESCRIPTION:Basketbol · EuroLeague · 22. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:b583bd7727983f403e274b47@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Partizan - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270115T194500Z
@@ -857,7 +857,7 @@ DESCRIPTION:Basketbol · EuroLeague · 23. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:7244e8ff6aa233b2d8047549@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Bahçeşehir Koleji
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270116
@@ -872,7 +872,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 16. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:80273bade791c6f4c4df3005@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Amed Sportif Faaliyetler
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270117
@@ -887,7 +887,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 17. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:6e206fa81864f52826933cad@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Villarreal
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20270120T174500Z
@@ -899,7 +899,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 7. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:8f4018e3c537f24525928eb2@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Besiktas
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270121T174500Z
@@ -911,7 +911,7 @@ DESCRIPTION:Basketbol · EuroLeague · 24. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:940529104b6ca519d6e21e6f@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Biotekno Körfez Basket - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270123
@@ -926,7 +926,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 17. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:468f36efe3a1618efebfcb82@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Gençlerbirliği
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270124
@@ -941,7 +941,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 18. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:0ff3732080bbf02f8422c727@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Atleti - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20270127T200000Z
@@ -953,7 +953,7 @@ DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 8. Hafta\nKay
 END:VEVENT
 BEGIN:VEVENT
 UID:6b4698230b62657c9c60a610@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Real Madrid
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270129T174500Z
@@ -965,7 +965,7 @@ DESCRIPTION:Basketbol · EuroLeague · 25. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:0db6c147cf8a387e28f55d72@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Çayırova Belediyesi
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270130
@@ -980,7 +980,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 18. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:085007d54630cd484bc8c33d@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Tümosan Konyaspor - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270131
@@ -995,7 +995,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 19. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:046837cb5df5d0793c2015eb@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Baskonia - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270202T193000Z
@@ -1007,7 +1007,7 @@ DESCRIPTION:Basketbol · EuroLeague · 26. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:d27af4fbca79fda26a5424a6@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:LDLC ASVEL - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270205T190000Z
@@ -1019,7 +1019,7 @@ DESCRIPTION:Basketbol · EuroLeague · 27. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:a59490412870518da437c828@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Aliağa Petkim Spor - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270206
@@ -1034,7 +1034,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 19. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:e3826982a0677bf8bd15248d@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Samsunspor
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270207
@@ -1049,7 +1049,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 20. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:49be78ad108cae55f8d96b81@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Milan
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270212T174500Z
@@ -1061,7 +1061,7 @@ DESCRIPTION:Basketbol · EuroLeague · 28. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:83e503fc4efb0d7334697b5d@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Karşıyaka
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270213
@@ -1076,7 +1076,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 20. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:179bfdd3d24fda81a56e00f6@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Beşiktaş - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270214
@@ -1091,7 +1091,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 21. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:19f2990a5229d066f79726b5@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Gaziantep Futbol Kulübü
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270221
@@ -1106,7 +1106,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 22. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:1acc11c7ae98c61394936b99@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Eyüpspor - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270228
@@ -1120,7 +1120,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 23. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:a9c62d39369efd18cf91fa2a@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Crvena Zvezda - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270305T190000Z
@@ -1132,7 +1132,7 @@ DESCRIPTION:Basketbol · EuroLeague · 29. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:7e98470f6b67cc36dea53e29@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Tofaş - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270306
@@ -1147,7 +1147,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 21. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:95d3c27131911cb3a887dcf5@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Çaykur Rizespor
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270307
@@ -1162,7 +1162,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 24. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:f6dd12f89597fb512588cb7c@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Virtus Bologna - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270309T193000Z
@@ -1174,7 +1174,7 @@ DESCRIPTION:Basketbol · EuroLeague · 30. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:0f8c8ca50c0030efee740aa9@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Valencia
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270312T174500Z
@@ -1186,7 +1186,7 @@ DESCRIPTION:Basketbol · EuroLeague · 31. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:13b802b5838651bf1fb53553@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Bursaspor Basketbol
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270313
@@ -1201,7 +1201,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 22. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:9343b21fdcb8ab304d897bfc@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Corendon Alanyaspor - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270314
@@ -1216,7 +1216,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 25. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:dc0dfd84bd183e607a41a2e5@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Paris
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270318T174500Z
@@ -1228,7 +1228,7 @@ DESCRIPTION:Basketbol · EuroLeague · 32. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:2717b7bf358b5ccb72bcd11c@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Anadolu Efes - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270320
@@ -1243,7 +1243,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 23. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:ce060871d9eb8be07a8fec6d@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Galatasaray
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270321
@@ -1258,7 +1258,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 26. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:43ca8a64db526db5716aa377@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Hapoel TLV - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270323T180000Z
@@ -1270,7 +1270,7 @@ DESCRIPTION:Basketbol · EuroLeague · 33. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:f1fd5d859a74b07c0a19217b@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - FC Barcelona
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270326T174500Z
@@ -1282,7 +1282,7 @@ DESCRIPTION:Basketbol · EuroLeague · 34. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:1581f3128bd471c324163cbf@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Beşiktaş
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270327
@@ -1297,7 +1297,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 24. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:9919f09a92f38f7d1632a604@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Maccabi - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270401T180500Z
@@ -1309,7 +1309,7 @@ DESCRIPTION:Basketbol · EuroLeague · 35. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:07d1fad50384252cc8427280@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Trabzonspor - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270403
@@ -1324,7 +1324,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 25. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:7eff59c77e6a58534f79266c@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Göztepe - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270404
@@ -1339,7 +1339,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 27. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:9c58af6c61e2ebd46684a7eb@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Olympiacos
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270406T174500Z
@@ -1351,7 +1351,7 @@ DESCRIPTION:Basketbol · EuroLeague · 36. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:2a160301fabdf68d2011c66f@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Bayern Munich - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270408T180000Z
@@ -1363,7 +1363,7 @@ DESCRIPTION:Basketbol · EuroLeague · 37. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:2a0e24895d2e6ec93ce3d5a4@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Pizzabulls Bordo Bandırma
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270410
@@ -1378,7 +1378,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 26. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:b30c7da67dccf96c4ef67eb6@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Arca Çorum FK
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270411
@@ -1393,7 +1393,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 28. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:5a85e6e085dd347490bb96ad@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Zalgiris - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20270415T170000Z
@@ -1405,7 +1405,7 @@ DESCRIPTION:Basketbol · EuroLeague · 38. Hafta\nKaynak: EuroLeague Basket
 END:VEVENT
 BEGIN:VEVENT
 UID:e0a0db2ba1a67a60ba3433dc@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Türk Telekom - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270417
@@ -1420,7 +1420,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 27. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:e5b90cc9ac8fc05397d9cde0@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Kocaelispor
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270418
@@ -1435,7 +1435,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 29. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:746acc3dbf7bdf4c42ab3a23@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Yukatel Denizli Basket
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270424
@@ -1450,7 +1450,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 28. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:c75b87b2a8f9efda3ff170fa@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Erzurumspor FK - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270425
@@ -1465,7 +1465,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 30. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:b661268e0ddcb1491a0337ed@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Galatasaray MCT Technic - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270501
@@ -1480,7 +1480,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 29. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:20c54dbf3df99f1adb1f78fb@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - İstanbul Başakşehir FK
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270502
@@ -1495,7 +1495,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 31. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:82fc1fd4a8d7b925d88886de@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Esenler Erokspor
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART;VALUE=DATE:20270508
@@ -1510,7 +1510,7 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 30. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:9b74d32bba32c94810a0ac4c@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Trabzonspor - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270509
@@ -1525,7 +1525,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 32. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:35ece1c398cba849f2414d79@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Fenerbahçe - Kasımpaşa
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270516
@@ -1540,7 +1540,7 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 33. Hafta\nMaç saati henüz a
 END:VEVENT
 BEGIN:VEVENT
 UID:f82c14b34d7fb15ae82f86cc@fenerbahce-calendar
-DTSTAMP:20260927T234830Z
+DTSTAMP:20260930T002756Z
 SUMMARY:Amed Sportif Faaliyetler - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270523
