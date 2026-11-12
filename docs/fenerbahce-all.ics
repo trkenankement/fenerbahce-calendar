@@ -487,15 +487,17 @@ DESCRIPTION:Futbol · Trendyol Süper Lig · 11. Hafta\nSonuç: 0-5\nKaynak
 END:VEVENT
 BEGIN:VEVENT
 UID:c6e7b18ae33534777d1a0982@fenerbahce-calendar
-DTSTAMP:20261109T005507Z
+DTSTAMP:20261112T063250Z
+LAST-MODIFIED:20261112T063250Z
+SEQUENCE:1
 SUMMARY:Paris - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261111T194500Z
 DTEND:20261111T214500Z
 STATUS:CONFIRMED
 LOCATION:Accor Arena
-DESCRIPTION:Basketbol · EuroLeague · 11. Hafta\nKaynak: EuroLeague Basket
- ball
+DESCRIPTION:Basketbol · EuroLeague · 11. Hafta\nSonuç: 111-109\nKaynak: 
+ EuroLeague Basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:937127e78668fa12d7f61aac@fenerbahce-calendar
