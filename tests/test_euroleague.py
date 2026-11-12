@@ -79,7 +79,7 @@ def test_fetch_uses_the_current_season_and_filters_by_team_code():
     assert len(games_requests) == 1
     url, params = games_requests[0]
     assert "/E/seasons/E2026/games" in url
-    assert params == {"teamCode": "BES"}
+    assert params == {"teamCode": "BES", "format": "json"}
 
 
 def test_a_season_that_has_not_started_yet_is_ignored():

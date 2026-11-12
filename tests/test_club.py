@@ -317,7 +317,7 @@ def test_euroleague_games_are_filtered_by_the_clubs_team_code():
     matches = euroleague.fetch(session, TODAY, FENERBAHCE)
 
     assert [(m.home, m.away) for m in matches] == [("Fenerbahçe", "Virtus Bologna"), ("Panathinaikos", "Fenerbahçe")]
-    assert [p for url, p in session.requests if url.endswith("/games")] == [{"teamCode": "ULK"}]
+    assert [p for url, p in session.requests if url.endswith("/games")] == [{"teamCode": "ULK", "format": "json"}]
 
 
 # --- Motor kulüpten bağımsız kalmalı ----------------------------------------------------------

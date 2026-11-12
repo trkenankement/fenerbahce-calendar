@@ -75,7 +75,7 @@ def fetch(session: requests.Session, today: date, club: Club) -> list[Match]:
         season = _current_season(session, code, today)
         if season is None:
             continue
-        payload = get_json(session, f"{API_URL}/{code}/seasons/{season}/games", teamCode=club.euroleague_code)
+        payload = get_json(session, f"{API_URL}/{code}/seasons/{season}/games", teamCode=club.euroleague_code, format="json")
         if not isinstance(payload, dict):
             raise SourceError("EuroLeague beklenmeyen yanıt biçimi döndürdü")
         for game in payload.get("data") or []:
