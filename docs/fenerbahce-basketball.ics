@@ -248,7 +248,9 @@ DESCRIPTION:Basketbol · EuroLeague · 11. Hafta\nSonuç: 111-109\nKaynak:
 END:VEVENT
 BEGIN:VEVENT
 UID:937127e78668fa12d7f61aac@fenerbahce-calendar
-DTSTAMP:20261108T003635Z
+DTSTAMP:20261116T010218Z
+LAST-MODIFIED:20261116T010218Z
+SEQUENCE:1
 SUMMARY:Fenerbahçe - Anadolu Efes
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261115T173000Z
@@ -256,7 +258,8 @@ DTEND:20261115T193000Z
 STATUS:CONFIRMED
 LOCATION:Ülker Spor ve Etkinlik Salonu\, İstanbul
 DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 8. Hafta
- \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+ \nSonuç: 77-75\nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Feder
+ asyonu)
 END:VEVENT
 BEGIN:VEVENT
 UID:a06eee27fefd6f2ab1a56953@fenerbahce-calendar
