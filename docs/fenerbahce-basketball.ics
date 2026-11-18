@@ -263,15 +263,17 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 8. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:a06eee27fefd6f2ab1a56953@fenerbahce-calendar
-DTSTAMP:20261108T003635Z
+DTSTAMP:20261118T025403Z
+LAST-MODIFIED:20261118T025403Z
+SEQUENCE:1
 SUMMARY:Fenerbahçe - LDLC ASVEL
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
 STATUS:CONFIRMED
 LOCATION:Ulker Sports And Event Hall
-DESCRIPTION:Basketbol · EuroLeague · 12. Hafta\nKaynak: EuroLeague Basket
- ball
+DESCRIPTION:Basketbol · EuroLeague · 12. Hafta\nSonuç: 115-81\nKaynak: E
+ uroLeague Basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:8e4d02110a2b42c929d5ec8a@fenerbahce-calendar
