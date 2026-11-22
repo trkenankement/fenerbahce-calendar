@@ -544,16 +544,17 @@ DESCRIPTION:Basketbol · EuroLeague · 13. Hafta\nSonuç: 78-70\nKaynak: Eu
 END:VEVENT
 BEGIN:VEVENT
 UID:149125af5e8e7316641750b0@fenerbahce-calendar
-DTSTAMP:20261109T005507Z
+DTSTAMP:20261122T011923Z
+LAST-MODIFIED:20261122T011923Z
+SEQUENCE:1
 SUMMARY:Kocaelispor - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART:20261121T160000Z
 DTEND:20261121T181500Z
 STATUS:CONFIRMED
-LOCATION:Kocaeli Stadyumu\, Kocaeli
-DESCRIPTION:Futbol · Trendyol Süper Lig · 12. Hafta\nKaynak: TFF (Türki
- ye Futbol Federasyonu) — https://www.tff.org/Default.aspx?pageId=29&macI
- d=317890
+DESCRIPTION:Futbol · Trendyol Süper Lig · 12. Hafta\nSonuç: 2-2\nKaynak
+ : TFF (Türkiye Futbol Federasyonu) — https://www.tff.org/Default.aspx?p
+ ageId=29&macId=317890
 END:VEVENT
 BEGIN:VEVENT
 UID:7b095859f5a4da272a2a18a8@fenerbahce-calendar
@@ -1196,14 +1197,16 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 22. Haft
 END:VEVENT
 BEGIN:VEVENT
 UID:9343b21fdcb8ab304d897bfc@fenerbahce-calendar
-DTSTAMP:20261109T005507Z
+DTSTAMP:20261122T011923Z
+LAST-MODIFIED:20261122T011923Z
+SEQUENCE:1
 SUMMARY:Corendon Alanyaspor - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,Trendyol Süper Lig
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
-LOCATION:Alanya Oba Stadyumu\, Antalya
+LOCATION:Alanya Rgüzel Stadyumu\, Antalya
 DESCRIPTION:Futbol · Trendyol Süper Lig · 25. Hafta\nMaç saati henüz a
  çıklanmadı\; takvimde tüm gün etkinliği olarak görünür. Saat kesi
  nleşince etkinlik otomatik güncellenir.\nKaynak: TFF (Türkiye Futbol Fe
