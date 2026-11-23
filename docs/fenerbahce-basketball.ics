@@ -291,9 +291,9 @@ DESCRIPTION:Basketbol · EuroLeague · 13. Hafta\nSonuç: 78-70\nKaynak: Eu
 END:VEVENT
 BEGIN:VEVENT
 UID:7b095859f5a4da272a2a18a8@fenerbahce-calendar
-DTSTAMP:20261121T021519Z
-LAST-MODIFIED:20261121T021519Z
-SEQUENCE:1
+DTSTAMP:20261123T014354Z
+LAST-MODIFIED:20261123T014354Z
+SEQUENCE:2
 SUMMARY:Beşiktaş Fuzul - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,Türkiye Sigorta Basketbol Süper Ligi
 DTSTART:20261122T173000Z
@@ -301,7 +301,8 @@ DTEND:20261122T193000Z
 STATUS:CONFIRMED
 LOCATION:Turkcell Basketbol Gelişim Merkezi\, İstanbul
 DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 9. Hafta
- \nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Federasyonu)
+ \nSonuç: 92-88\nYayın: beINSports\nKaynak: TBF (Türkiye Basketbol Feder
+ asyonu)
 END:VEVENT
 BEGIN:VEVENT
 UID:fa1bb5d3f2e714044187f6ed@fenerbahce-calendar
