@@ -573,15 +573,17 @@ DESCRIPTION:Basketbol · Türkiye Sigorta Basketbol Süper Ligi · 9. Hafta
 END:VEVENT
 BEGIN:VEVENT
 UID:fa1bb5d3f2e714044187f6ed@fenerbahce-calendar
-DTSTAMP:20261109T005507Z
+DTSTAMP:20261125T104951Z
+LAST-MODIFIED:20261125T104951Z
+SEQUENCE:1
 SUMMARY:FC Barcelona - Fenerbahçe
 CATEGORIES:Fenerbahçe,Basketbol,EuroLeague
 DTSTART:20261124T200000Z
 DTEND:20261124T220000Z
 STATUS:CONFIRMED
 LOCATION:Palau Blaugrana
-DESCRIPTION:Basketbol · EuroLeague · 14. Hafta\nKaynak: EuroLeague Basket
- ball
+DESCRIPTION:Basketbol · EuroLeague · 14. Hafta\nSonuç: 77-83\nKaynak: Eu
+ roLeague Basketball
 END:VEVENT
 BEGIN:VEVENT
 UID:23b17b664105dc945ca4750d@fenerbahce-calendar
