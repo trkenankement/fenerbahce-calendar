@@ -587,15 +587,17 @@ DESCRIPTION:Basketbol · EuroLeague · 14. Hafta\nSonuç: 77-83\nKaynak: Eu
 END:VEVENT
 BEGIN:VEVENT
 UID:23b17b664105dc945ca4750d@fenerbahce-calendar
-DTSTAMP:20261109T005507Z
+DTSTAMP:20261126T033654Z
+LAST-MODIFIED:20261126T033654Z
+SEQUENCE:1
 SUMMARY:Shakhtar - Fenerbahçe
 CATEGORIES:Fenerbahçe,Futbol,UEFA Şampiyonlar Ligi
 DTSTART:20261125T200000Z
 DTEND:20261125T221500Z
 STATUS:CONFIRMED
 LOCATION:Stamford Bridge\, London
-DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 5. Hafta\nKay
- nak: UEFA
+DESCRIPTION:Futbol · UEFA Şampiyonlar Ligi · Lig Aşaması 5. Hafta\nSon
+ uç: 0-1\nKaynak: UEFA
 END:VEVENT
 BEGIN:VEVENT
 UID:e34fa38927a56b447b77caf4@fenerbahce-calendar
